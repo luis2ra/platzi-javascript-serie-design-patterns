@@ -100,8 +100,8 @@ function appFactory(factory) {
  * You could change the Factory as you wish since
  * all of them implement the same behaviour.
  */
-appFactory(new MastodonCarFactory());
-appFactory(new RhinoCarFactory());
+// appFactory(new MastodonCarFactory());
+// appFactory(new RhinoCarFactory());
 
 /**
  *
